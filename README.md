@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://i.postimg.cc/4N1JMKkS/a-hacker-sitting-at-his-computer-with-green-glare-1.jpg"/>
+<a hrefe="https://www.linkedin.com/in/victornadoti" target="_blank"><img align="right" height="590em" src="https://i.postimg.cc/4N1JMKkS/a-hacker-sitting-at-his-computer-with-green-glare-1.jpg"/></a>
 
 ## Bem-vindo(a) 😄
 ### <h1>Hi! Victor Nadoti here 👋</h1>
