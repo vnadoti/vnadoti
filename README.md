@@ -1,3 +1,5 @@
+<img align="right" height="590em" src="https://i.postimg.cc/4N1JMKkS/a-hacker-sitting-at-his-computer-with-green-glare-1.jpg"/>
+
 ## Bem-vindo(a) 😄
 ### <h1>Hi! Victor Nadoti here 👋</h1>
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
