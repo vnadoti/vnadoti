@@ -1,15 +1,13 @@
 <a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img align="right" height="590em" src="https://i.postimg.cc/4N1JMKkS/a-hacker-sitting-at-his-computer-with-green-glare-1.jpg" target="_blank"/></a>
-
-## Bem-vindo(a) 😄
-### <h1>Hi! Victor Nadoti here 👋</h1>
+# <h1>Hi! Victor Nadoti here 👋</h1>
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
 - 💻 Estudando Desenvolvimento Web e Mobile
 - 📝 Estudando com o suporte do <a href="https://github.com/devemdobro" targe="_blank">DevEmDobro</a>
 - 📫 Contact me on: vnadoti@gmail.com
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnadoti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnadoti">
 <br>
-<h2>Atualmente estou estudando essas Tecnologias:</h2>
+<h2>📚 Atualmente estou estudando essas Tecnologias:</h2>
 <div style="display: inline_block"><br>
  <img align="center" alt="Nadoti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nadoti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
