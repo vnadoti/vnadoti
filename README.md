@@ -7,6 +7,8 @@
 - 📝 Estudando com o suporte do <a href="https://github.com/devemdobro" targe="_blank">DevEmDobro</a>
 - 📫 Contact me on: vnadoti@gmail.com
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnadoti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <h2>Atualmente estou estudando essas Tecnologias:</h2>
 <div style="display: inline_block"><br>
  <img align="center" alt="Nadoti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
