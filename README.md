@@ -1,15 +1,16 @@
 <!-- <a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img align="right" height="550em" src="https://i.postimg.cc/2SS79hNx/a-man-doing-web-design-in-dark-room-with-super-pow.jpg" target="_blank"/></a> -->
-<div> 
+
   <a href="https://www.linkedin.com/in/victornadoti" target="_blank">
     <img align="center" src="https://i.postimg.cc/288D2H6X/BANNER.png"> 
   </a>
-</div>
 
-<h1>Hi! Victor Nadoti here 👋</h1>
+
+#<h1>Hi! Victor Nadoti here 👋</h1>
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
 - 💻 Estudando Desenvolvimento Web e Mobile
 - 📝 Estudando com o suporte do <a href="https://github.com/devemdobro" targe="_blank">DevEmDobro</a>
 - 📫 Contact me on: vnadoti@gmail.com
+
 <br>
 <h2>📚 Atualmente estou estudando essas Tecnologias:</h2>
 <div style="display: inline_block"><br>
