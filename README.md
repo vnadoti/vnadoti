@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img align="right" height="550em" src="https://i.postimg.cc/4N1JMKkS/a-hacker-sitting-at-his-computer-with-green-glare-1.jpg" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img align="right" height="550em" src="https://i.postimg.cc/2SS79hNx/a-man-doing-web-design-in-dark-room-with-super-pow.jpg" target="_blank"/></a>
 # <h1>Hi! Victor Nadoti here 👋</h1>
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
 - 💻 Estudando Desenvolvimento Web e Mobile
