@@ -9,14 +9,10 @@
 - 📫 Contact me on: vnadoti@gmail.com
 
 <br>
-<h2>📚 Desenvolvendo Habilidades nessas Tecnologias:</h2>
+<h2>📚 Tecnologias:</h2>
 <div style="display: inline_block"><br>
- <img align="center" alt="Nadoti-HTML" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nadoti-CSS" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Nadoti-Js" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nadoti-PS" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"> 
-  <img align="center" alt="Nadoti-Figma" width="65px" src="https://skillicons.dev/icons?i=figma">
-
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,ps,ae,ableton)](https://skillicons.dev)
 </div> 
  
 <br>
