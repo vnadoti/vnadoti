@@ -12,7 +12,7 @@
 <h2>📚 Tecnologias:</h2>
 <div style="display: inline_block"><br>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,ps,ae,ableton&perline=8)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,ps,ae,ableton&perline=6)]()
 </div> 
  
 <br>
