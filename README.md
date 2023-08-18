@@ -1,7 +1,7 @@
-<a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img align="right" height="550em" src="https://i.postimg.cc/2SS79hNx/a-man-doing-web-design-in-dark-room-with-super-pow.jpg" target="_blank"/></a> 
+<a href="https://app.daily.dev/vnadoti"><img align="right" src="https://api.daily.dev/devcards/e5c0f17ea67f44e2bb9207cb04994fe2.png?r=i94" width="400" alt="Victor Nadoti's Dev Card"/></a>
 
-#
-<h1>Hi! Victor Nadoti here 👋</h1>
+
+<h1>Hi! Victor Nadoti </h1>
 
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
 - 💻 Estudando Desenvolvimento Web e Mobile
