@@ -1,7 +1,9 @@
 <a href="https://app.daily.dev/vnadoti"><img align="right" src="https://api.daily.dev/devcards/e5c0f17ea67f44e2bb9207cb04994fe2.png?r=i94" width="400" alt="Victor Nadoti's Dev Card"/></a>
 
 
-<h1>Hi! Victor Nadoti </h1>
+<h1>Hey There! 🤙
+<br>
+I'm Victor Nadoti </h1>
 
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
 - 💻 Estudando Desenvolvimento Web e Mobile
