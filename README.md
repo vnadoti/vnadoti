@@ -21,9 +21,9 @@ I'm Victor Nadoti </h1>
 
 Na visão geral abaixo você encontrará os cursos que estou matriculado e estudando:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4E03AQHkIUh34ZcV4A/profile-displayphoto-shrink_200_200/0/1644859442538?e=2147483647&v=beta&t=jio5T8lneBgEDxbcupYhIezb470jPVCa96UXGi6EYns"/>](https://inscricoes.unicesumar.edu.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.pinimg.com/originals/34/f1/ee/34f1eebb24817c1086a1a8abef7925df.jpg"/>](https://www.uninter.com/graduacao-ead/bacharelado-em-ciencia-da-computacao/)
 
-**Unicesumar** \
+**Uninter** \
 **Análise e Desenvolvimento de Sistemas** -  Jun 2023 - Previsão até 2025 \
 Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`, `Linguagem e Técnicas de Programação`, `Arquitetura de computadores`, `Redes de computadores`, `Matemática aplicada a computação`, `Banco de dados`,\
 `Sistemas operacionais`, `Estruturas de dados`, `Front End`, `Programação para dispositivos Móveis`, `Programação orientada a objetos (POO)`.\
