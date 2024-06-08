@@ -29,10 +29,10 @@ Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`
 `Sistemas operacionais`, `Estruturas de dados`, `Front End`, `Programação para dispositivos Móveis`, `Programação orientada a objetos (POO)`.\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/D4D0BAQFZyE7314fL0A/company-logo_100_100/0/1666634401742/onebitcode_logo?e=1708560000&v=beta&t=xZKS5ZwJtFjxHb7x4r1Jdy_xvV-hb39XjuEjA6K4YZU"/>](https://www.onebitcode.com/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbVYHXnz8RqbVFsge5hGINGJpz70rIr0S6A&s"/>](https://www.onebitcode.com/)
 
 **OneBitCode** \
-[**FullStack Javascript**](https://www.onebitcode.com/) • Nov 2023 \
+[**FullStack Javascript**](https://cursos.onebitcode.com/area/vitrine) • Nov 2023 \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `TypeScript`, `Git`,
 `GitHub`, `SASS`, `Bulma (Framework CSS)`, `HTML5`, `CSS`.\
 <br/>
