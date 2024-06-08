@@ -24,7 +24,7 @@ Na visão geral abaixo você encontrará os cursos que estou matriculado e estud
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.pinimg.com/originals/34/f1/ee/34f1eebb24817c1086a1a8abef7925df.jpg"/>](https://www.uninter.com/graduacao-ead/bacharelado-em-ciencia-da-computacao/)
 
 **Uninter** \
-**Análise e Desenvolvimento de Sistemas** -  Jun 2023 - Previsão até 2025 \
+**Bacharelado em Ciências da Computação** -  Maio 2024 - Previsão até 2028 \
 Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`, `Linguagem e Técnicas de Programação`, `Arquitetura de computadores`, `Redes de computadores`, `Matemática aplicada a computação`, `Banco de dados`,\
 `Sistemas operacionais`, `Estruturas de dados`, `Front End`, `Programação para dispositivos Móveis`, `Programação orientada a objetos (POO)`.\
 <br/>
