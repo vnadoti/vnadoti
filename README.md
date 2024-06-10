@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/vnadoti"><img align="right" src="https://api.daily.dev/devcards/e5c0f17ea67f44e2bb9207cb04994fe2.png?r=i94" width="400" alt="Victor Nadoti's Dev Card"/></a>
+<a href="https://app.daily.dev/vnadoti"><img align="right" src="https://api.daily.dev/devcards/v2/0sWmoY7uAkbyZti6PVuQs.png?r=5k7" width="356" alt="Victor Nadoti's Dev Card"/></a>
 
 
 <h1>Hey There! 🤙
