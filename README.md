@@ -6,7 +6,7 @@
 I'm Victor Nadoti </h1>
 
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
-- 💻 Estudando Desenvolvimento Web e Mobile
+- 💻 Estudando Desenvolvimento Web
 
 <br>
 <h2>📚 Tecnologias:</h2>
