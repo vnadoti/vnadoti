@@ -1,9 +1,4 @@
-<a href="https://app.daily.dev/vnadoti"><img align="right" src="https://api.daily.dev/devcards/v2/0sWmoY7uAkbyZti6PVuQs.png?r=5k7" width="356" alt="Victor Nadoti's Dev Card"/></a>
-
-
-<h1>Hey There! 🤙
-<br>
-I'm Victor Nadoti </h1>
+<h1> Victor Nadoti </h1>
 
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
 - 💻 Estudando Desenvolvimento Web
@@ -51,6 +46,4 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `React`, `TypeScript`, `Git`,
   <a href="https://instagram.com/vnadoti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vnadoti@.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 </div>
