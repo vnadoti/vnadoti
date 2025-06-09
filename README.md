@@ -1,13 +1,14 @@
 <h1> Victor Nadoti </h1>
 
 - ⚠️ Atuo na Área de Saúde mas estou em migração de carreira!
-- 💻 Estudando Desenvolvimento Web
+- 🔍 QA Engineer em formação | Foco em qualidade, automação e melhoria contínua
+Sou um(a) profissional em transição para a área de Quality Assurance (QA), estudos em automação de testes, testes de API, e práticas ágeis. Tenho investido constantemente em minha capacitação por meio de cursos, projetos práticos e muito estudo — tudo com o objetivo de construir uma carreira sólida como QA Engineer.
 
 <br>
 <h2>📚 Tecnologias:</h2>
 <div style="display: inline_block"><br>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,ps,ae,ableton&perline=10)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,cypress,postman&perline=10)]()
 </div> 
  
 <br>
