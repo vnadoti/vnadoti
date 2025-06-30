@@ -34,6 +34,12 @@ Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`
 `Sistemas operacionais`, `Estruturas de dados`, `Front End`, `Programação para dispositivos Móveis`, `Programação orientada a objetos (POO)`.\
 <br/>
 
+
+--- 
+![vnadoti's Stats](https://github-readme-stats.vercel.app/api?username=vnadoti&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)<br>
+![vnadoti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vnadoti&theme=highcontrast&hide_border=true)<br>
+![vnadoti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnadoti&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbVYHXnz8RqbVFsge5hGINGJpz70rIr0S6A&s"/>](https://www.onebitcode.com/)
 
