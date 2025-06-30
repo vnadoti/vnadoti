@@ -6,15 +6,22 @@ Analista de Qualidade de Software, com foco em testes manuais e automatizados.
 Trabalho com testes de API, testes E2E e banco de dados, participando ativamente da estruturação da qualidade e da entrega contínua em times ágeis (Scrum/Kanban).
 Atualmente, utilizo ferramentas como Cypress, Postman, sempre buscando melhorar processos de qualidade através de boas práticas, documentação e automação eficiente.
 
-## Stack
+## 💻 Stack
 <div style="display: inline_block"><br>
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,npm,cypress,postman,figma,docker,vscode&perline=15)]()
 </div> 
  
 ---
+## 💡Projetos em Destaque 
 
-## Formação
+Aqui você encontrará exemplos práticos do meu trabalho em Quality Assurance, incluindo automação de testes, validações de API e banco de dados, e implementação de CI/CD. Cada projeto demonstra minhas habilidades técnicas e minha abordagem para garantir a qualidade do software.
+
+- [Testes Manuais-swaglabs](https://github.com/vnadoti/manual-test-swaglabs) Descrição: Conjunto de testes E2E manuais  para uma aplicação web,Demonstra a criação de um plano de teste que prioriza e aborda cenários críticos da aplicação e a documentaçaão com evidencias de cada cenário. 
+
+--- 
+
+## 📚 Formação
 
 Na visão geral abaixo você encontrará os cursos que estou matriculado e estudando:
 
@@ -33,6 +40,7 @@ Competências: `Testes de Software`, `Software Testing e Processos Scrum`, `Auto
 Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`, `Linguagem e Técnicas de Programação`, `Arquitetura de computadores`, `Redes de computadores`, `Matemática aplicada a computação`, `Banco de dados`,\
 `Sistemas operacionais`, `Estruturas de dados`, `Front End`, `Programação para dispositivos Móveis`, `Programação orientada a objetos (POO)`.\
 <br/>
+
 
 
 --- 
