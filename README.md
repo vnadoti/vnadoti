@@ -17,7 +17,8 @@ Atualmente, utilizo ferramentas como Cypress, Postman, sempre buscando melhorar 
 
 Aqui você encontrará exemplos práticos do meu trabalho em Quality Assurance, incluindo automação de testes, validações de API e banco de dados, e implementação de CI/CD. Cada projeto demonstra minhas habilidades técnicas e minha abordagem para garantir a qualidade do software.
 
-- [Testes Manuais-swaglabs](https://github.com/vnadoti/manual-test-swaglabs) Descrição: Conjunto de testes E2E manuais  para uma aplicação web,Demonstra a criação de um plano de teste que prioriza e aborda cenários críticos da aplicação e a documentaçaão com evidencias de cada cenário. 
+- [Testes Manuais-swaglabs](https://github.com/vnadoti/manual-test-swaglabs) Descrição: Conjunto de testes E2E manuais  para uma aplicação web,Demonstra a criação de um plano de teste que prioriza e aborda cenários críticos da aplicação e a documentaçaão com evidencias de cada cenário.
+- - [Testes Automatizados-Adopet](https://github.com/vnadoti/automation-adopet) Descrição: Conjunto de testes E2E automatizados utilizando Cypress para uma aplicação web,Demonstra a criação de um plano de teste que prioriza e aborda cenários críticos da aplicação e a documentaçaão com evidencias de cada cenário. 
 
 --- 
 
