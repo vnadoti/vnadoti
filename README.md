@@ -9,7 +9,6 @@ Atualmente expandindo minha atuação para Segurança da Informação, estudando
 <div style="display: inline_block"><br>
 
  [![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,github,docker,aws,html,css&perline=15)](https://skillicons.dev)
-
 </div> 
 
  
@@ -32,3 +31,7 @@ Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`
 </div>
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnadoti&show_icons=true&locale=en&layout=compact" alt="vnadoti" /></p>
+
+
