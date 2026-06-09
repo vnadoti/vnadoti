@@ -2,7 +2,7 @@
 
 ***`Estudante de Cybersecurity | Redes & Segurança da Informação | Em transição para a área de CyberSec 🔒`***
 
-DAtualmente expandindo minha atuação para Segurança da Informação, estudando conceitos de redes, criptografia, análise de vulnerabilidades e boas práticas de segurança em aplicações.
+Atualmente expandindo minha atuação para Segurança da Informação, estudando conceitos de redes, criptografia, análise de vulnerabilidades e boas práticas de segurança em aplicações.
 
 
 ## 💻 Stack
