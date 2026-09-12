@@ -1,37 +1,30 @@
-# Victor Nadoti 
+# Olá, eu sou Victor Nadoti! 👋
 
-***`Estudante de Cybersecurity | Redes & Segurança da Informação | Em transição para a área de CyberSec 🔒`***
+### ☕ Java Backend Developer em formação
 
-Atualmente expandindo minha atuação para Segurança da Informação, estudando conceitos de redes, criptografia, análise de vulnerabilidades e boas práticas de segurança em aplicações.
+Sou estudante de **Sistemas de Informação** e estou direcionando minha carreira para o desenvolvimento de software, com foco em **Back-end utilizando Java**.
 
+Atualmente estou construindo uma base sólida em **Java, Programação Orientada a Objetos, Git/GitHub e Banco de Dados**, evoluindo gradualmente para o ecossistema **Spring** e desenvolvimento de **APIs REST**.
 
-## 💻 Stack
-<div style="display: inline_block"><br>
-
- [![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,github,docker,aws,html,css&perline=15)](https://skillicons.dev)
-</div> 
-
- 
---- 
-## 📚 Formação
-
-**Unasselvi** \
-**Engenharia de Software** -  Fev 2026 - Previsão até 2030 \
-Competências: `Engenharia de Software`, `Algoritmos e Lógica de Programação`, `Linguagem e Técnicas de Programação`, `Arquitetura de computadores`, `Redes de computadores`, `Matemática aplicada a computação`, `Banco de dados`,\
-`Sistemas operacionais`, `Estruturas de dados`, `Front End`, `Programação para dispositivos Móveis`, `Programação orientada a objetos (POO)`.\
-<br/>
+Meu objetivo é conquistar minha primeira oportunidade profissional como **Desenvolvedor Java / Back-end** e continuar evoluindo através de projetos práticos.
 
 ---
 
-<h3> Fale Comigo:</h3> 
-<div> 
-  <a href="https://instagram.com/vnadoti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vnadoti@.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victornadoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🛠️ Tecnologias & Ferramentas
+
+### Estudando atualmente
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### Próximos passos
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnadoti&show_icons=true&locale=en&layout=compact" alt="vnadoti" /></p>
-
-
