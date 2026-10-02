@@ -1,30 +1,45 @@
+<div align="center">
+
 # Olá, eu sou Victor Nadoti! 👋
 
-### ☕ Java Backend Developer em formação
+Transformo estudo em projetos versionados, documentação clara e evolução contínua.
 
-Sou estudante de **Sistemas de Informação** e estou direcionando minha carreira para o desenvolvimento de software, com foco em **Back-end utilizando Java**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/victornadoti/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/vnadoti)
 
-Atualmente estou construindo uma base sólida em **Java, Programação Orientada a Objetos, Git/GitHub e Banco de Dados**, evoluindo gradualmente para o ecossistema **Spring** e desenvolvimento de **APIs REST**.
+</div>
 
-Meu objetivo é conquistar minha primeira oportunidade profissional como **Desenvolvedor Java / Back-end** e continuar evoluindo através de projetos práticos.
+## Sobre mim
+Sou estudante de Engenharia de Software e estou direcionando minha carreira para o desenvolvimento de software, com foco em Back-end utilizando **Java** ☕
 
----
+Atualmente estou construindo uma base sólida em Java, Programação Orientada a Objetos, Git/GitHub e Banco de Dados, evoluindo gradualmente para o ecossistema Spring e desenvolvimento de APIs REST.
 
-## 🛠️ Tecnologias & Ferramentas
+> Meu objetivo é conquistar minha primeira oportunidade profissional como Desenvolvedor Java / Back-end e continuar evoluindo através de projetos práticos.
 
-### Estudando atualmente
+Estou aberto a oportunidades de **estágio**, posições **júnior**, colaboração em projetos e troca de conhecimento com a comunidade.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+## Tecnologias e ferramentas
 
-### Próximos passos
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,postgres,git,github,&amp;theme=dark&amp;perline=8" alt="Java, HTML, CSS,Git e GitHub" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,figma,linux,ubuntu,obsidian,&amp;theme=dark&amp;perline=8" alt="VS Code, Eclipse, Figma, Linux, Ubuntu, Obsidian" />
+  </a>
+</p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+![vnadoti's Stats](https://github-readme-stats.vercel.app/api?username=vnadoti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![vnadoti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnadoti&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  <p><sub>As estatísticas consideram os repositórios públicos e representam atividade, não nível de proficiência.</sub> </p>
+
+
+## Em evolução
+- Aprofundando fundamentos de **Java**..
+- Organizando exercícios de **algoritmos** entre teoria e prática.
+- Evoluindo os projetos com **testes**, integração com **APIs** e decisões de arquitetura documentadas.
+
+
